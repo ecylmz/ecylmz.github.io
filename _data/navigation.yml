@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Hakkımda
+  url: /about/
+
+- title: Teknik
+  url: /articles/
+
+- title: Gündelik
+  url: /blog/
+
+- title: Folyolar
+  url: http://fo.ecylmz.com
+
+- title: Arama
+  url: /search/
