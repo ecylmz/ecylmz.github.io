@@ -60,7 +60,7 @@ I used xip.io. It is so simple.
 First check that you have deisctl installed and the version is correct.
 
 {% highlight bash %}
-$ $ deisctl --version
+$ deisctl --version
 1.4.1
 {% endhighlight %}
 
