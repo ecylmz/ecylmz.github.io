@@ -10,11 +10,11 @@ share: true
 
 This post will be described how i did Deis installation from start to finish on bare metal.
 
-3 node will be used in the installation. I have [VivoPC](http://www.asus.com/ASUS_VivoPC/VivoPC_VM40B/) with 8GB RAM.
+3 nodes will be used in the installation. I have [VivoPC](http://www.asus.com/ASUS_VivoPC/VivoPC_VM40B/) with 8GB RAM.
 
 ## Prepare the LiveCD
 
-Download [Ubuntu 14.04](http://www.ubuntu.com/download/desktop) and prepare the LiveCD(via unetbootin or ubuntu startup disk creator).
+Download [Ubuntu 14.04](http://www.ubuntu.com/download/desktop) and prepare the LiveCD(via unetbootin or Ubuntu startup disk creator).
 
 ## Generate SSH Key
 
@@ -40,7 +40,7 @@ Finally, you should copy the cloud-config.yml and [coreos_install.sh](https://gi
 -  Open the xterm.
 -  Copy the cloud-config.yml and coreos_install.sh files to home directory.
 
-**WARNING!!!** coreos_install.sh script install to `/dev/sda` disk. If you want to install the other disk, edit this script file.
+**WARNING!!!** `coreos_install.sh` script install to `/dev/sda` disk. If you want to install the other disk, edit this script file.
 
 {% highlight bash %}
 $ cp /media/cdrom/coreos_install.sh /media/cdrom/cloud-config.yml ~
