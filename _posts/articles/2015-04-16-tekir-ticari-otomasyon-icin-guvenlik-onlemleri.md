@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tekir Ticari Otomasyon Güvenlik Önlemleri
+title: Tekir Ticari Otomasyon İçin Güvenlik Önlemleri
 excerpt:
 categories: articles
 tags: [tekir, muhasebe, ticari, otomasyon, jboss, güvenlik]
