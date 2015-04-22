@@ -4,7 +4,13 @@ title: Hakkımda
 excerpt:
 ---
 
-Merhaba.
+Merhaba,
+
+Kendimi tanıtmaya başlamadan önce buradaki teknik yazıların çoğunu kendim için yazıyorum. Bir gün tekrar ihtiyacım
+olabileceği ihtimaline karşı. Bunun yanında belki birilerinin de işine yarar da benim kaybettiğim vakti o da
+kaybetmez. Buradaki bilgiyi eminim başka yerlerde de bulabilirsiniz.
+
+Site hakkında kısmı bittiğine göre kendimi tanıtabilirim.
 
 Ben Emre Can Yılmaz. 1991 Samsun doğumluyum. Samsun'da yaşıyorum. Tüm eğitim
 öğretim hayatım Samsun'da geçti ve geçmeye devam ediyor.
