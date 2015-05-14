@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: Ana Sayfa
+  url: /
+
 - title: Hakkımda
   url: /about/
 
