@@ -27,11 +27,11 @@ deb https://apt.dockerproject.org/repo ubuntu-trusty main
 {% endhighlight %}
 
 {% highlight bash %}
-$ sudo apt-get update
+$ sudo sudo apt-get update
 
-$ apt-get purge lxc-docker*
+$ sudo apt-get purge lxc-docker*
 
-$ apt-get install docker-engine
+$ sudo apt-get install docker-engine
 {% endhighlight %}
 
 Bilgisayarlarımızı yeniden başlattığımızda Docker'ın çalışmadığını farkettik eğer siz de bunları yaptıysanız siz de
