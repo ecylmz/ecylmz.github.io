@@ -4,6 +4,8 @@ title: "SSMTP Kurulumu ve Yapılandırması"
 categories: articles
 excerpt: "SMTP üzerinden mail gönderimini kolaylaştıran komut satırı aracı"
 tags: [smtp, mail, howto]
+comments: true
+share: true
 ---
 
 ## Kurulum
