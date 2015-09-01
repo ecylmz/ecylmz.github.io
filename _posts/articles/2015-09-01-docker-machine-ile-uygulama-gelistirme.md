@@ -38,12 +38,9 @@ $ docker-machine create web --driver virtualbox
 	<figcaption>Docker Machine Ayarlamaları</figcaption>
 </figure>
 
-**Uyarı ve öneriler:**
+**Öneriler:**
 Docker ile bir uygulama çalıştırdığınızda artık "localhost:3000" adresine değil de yukarıda yazan ip'ye bağlanmanız
 gerekecek. Bu ip'yi `/etc/hosts` dosyanıza yazabilirsiniz.
-
-Komut satırınızda sürekli yukarıdaki "eval" komutunu çalıştırmak yerine ".bashrc" ".zshrc" dosyanıza bu satırı
-yazabilirsiniz.
 
 Yukarıdaki kurulumları ve ayarlamaları yaptıysanız artık uygulama geliştirme işlemine geçebilirsiniz.
 Önceki yazılarımdan olan [Docker Compose ile Rails Uygulama Geliştirme](http://ecylmz.com/articles/docker-compose-ile-rails-uygulama-gelistirme/) başlıklı yazıma gözatabilirsiniz.
