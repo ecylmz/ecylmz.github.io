@@ -30,7 +30,7 @@ oluşturuyor. Oluşturulan bu makine `boot2docker` işletim sistemini barındır
 ## docker-machine ile sanal makine oluşturma
 
 {% highlight bash %}
-$ docker-machine create web --driver virtualbox
+$ docker-machine create --native-ssh web --driver virtualbox
 {% endhighlight %}
 
 <figure>
@@ -49,6 +49,10 @@ gerekecek. Bu ip'yi `/etc/hosts` dosyanıza yazabilirsiniz.
 
 Yukarıdaki kurulumları ve ayarlamaları yaptıysanız artık uygulama geliştirme işlemine geçebilirsiniz.
 Önceki yazılarımdan olan [Docker Compose ile Rails Uygulama Geliştirme](http://ecylmz.com/articles/docker-compose-ile-rails-uygulama-gelistirme/) başlıklı yazıma gözatabilirsiniz.
+
+GitHub'da bulunan [#878](https://github.com/docker/machine/issues/878) nolu issue'yu takipe etmenizi öneririm.
+
+Makine oluştururken --native-ssh argümanı verilmezse verdiğim linkteki sıkıntılar ortaya çıkmaktadır.
 
 ---
 
