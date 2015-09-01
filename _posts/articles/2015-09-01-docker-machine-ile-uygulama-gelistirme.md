@@ -38,6 +38,11 @@ $ docker-machine create web --driver virtualbox
 	<figcaption>Docker Machine Ayarlamaları</figcaption>
 </figure>
 
+<figure>
+	<img src="http://ecylmz.com/file/docker-machine-help.png">
+	<figcaption>Docker Machine Komutları</figcaption>
+</figure>
+
 **Öneriler:**
 Docker ile bir uygulama çalıştırdığınızda artık "localhost:3000" adresine değil de yukarıda yazan ip'ye bağlanmanız
 gerekecek. Bu ip'yi `/etc/hosts` dosyanıza yazabilirsiniz.
