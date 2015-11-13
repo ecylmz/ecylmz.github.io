@@ -24,9 +24,10 @@ $ curl -fsSL curl.haxx.se/ca/cacert.pem -o "$(ruby -ropenssl -e 'puts OpenSSL::X
 {% endhighlight %}
 
 **Reference:** [https://gist.github.com/mislav/5026283](https://gist.github.com/mislav/5026283)
-{% highlight bash %}
 
 Another solution:
+
+{% highlight bash %}
 
 $ wget https://github.com/rubygems/rubygems/releases/download/v2.2.3/rubygems-update-2.2.3.gem
 
