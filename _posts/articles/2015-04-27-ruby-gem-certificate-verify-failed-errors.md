@@ -16,9 +16,17 @@ Error fetching https://rubygems.org:
 SSL_connect returned=1 errno=0 state=unknown state: certificate verify failed (https://s3.amazonaws.com/production.s3.rubygems.org/specs.4.8.gz)
 {% endhighlight %}
 
-Perform the following commands respectively to resolve this problem:
+Perform the following command to resolve this problem:
 
 {% highlight bash %}
+
+$ curl -fsSL curl.haxx.se/ca/cacert.pem -o "$(ruby -ropenssl -e 'puts OpenSSL::X509::DEFAULT_CERT_FILE')"
+{% endhighlight %}
+
+**Reference:** [https://gist.github.com/mislav/5026283](https://gist.github.com/mislav/5026283)
+{% highlight bash %}
+
+Another solution:
 
 $ wget https://github.com/rubygems/rubygems/releases/download/v2.2.3/rubygems-update-2.2.3.gem
 
