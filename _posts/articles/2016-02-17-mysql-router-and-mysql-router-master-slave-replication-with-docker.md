@@ -10,9 +10,10 @@ share: true
 ---
 
 I prepared docker image for this purpose. [mysql-router](https://hub.docker.com/r/ecylmz/mysql-router/)
+
 This image only supports the Master-Slave Replication.
 
-For MySQL Master-Slave Replication, you must set REPLICATION=true environment variable before start the container.
+For MySQL Master-Slave Replication, you must set `REPLICATION=true` environment variable before start the container.
 
 **Disclaimer:** I'm using this image for development and testing. I have not tried yet in production environments.
 
@@ -22,7 +23,7 @@ For MySQL Master-Slave Replication, you must set REPLICATION=true environment va
 
 Use this docker-compose.yml file.
 
-Clone the repo and run this command in mysql-master-slave directory:
+Clone the repo and run `docker-compose up` command in mysql-master-slave directory:
 
 ```sh
 $ git clone https://github.com/ecylmz/docker-mysql-router.git
