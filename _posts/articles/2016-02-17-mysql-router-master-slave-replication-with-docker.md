@@ -4,7 +4,7 @@ title: "MySQL Master Slave Replication with Docker"
 modified:
 categories: articles
 excerpt:
-tags: [docker, docker-compose, mysql, replication, mysql-router, high availability]
+tags: [docker, docker-compose, mysql, replication, mysql-router, high-availability]
 comments: true
 share: true
 ---
