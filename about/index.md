@@ -6,11 +6,9 @@ excerpt:
 
 Merhaba,
 
-Kendimi tanıtmaya başlamadan önce buradaki teknik yazıların çoğunu kendim için yazıyorum. Bir gün tekrar ihtiyacım
-olabileceği ihtimaline karşı. Bunun yanında belki birilerinin de işine yarar da benim kaybettiğim vakti o da
-kaybetmez. Buradaki bilgiyi eminim başka yerlerde de bulabilirsiniz.
+Kendimi tanıtmaya başlamadan önce buradaki teknik yazıların çoğunu, bir gün tekrar ihtiyacım olabileceği ihtimaline karşı, kendim için yazıyorum. Bunun yanında belki birilerinin de işine yarar da benim kaybettiğim vakti o da kaybetmez. Buradaki bilgiyi eminim başka yerlerde de bulabilirsiniz.
 
-Site hakkında kısmı bittiğine göre kendimi tanıtabilirim.
+Site hakkındaki konuşma bittiğine göre kendimi tanıtabilirim.
 
 Ben Emre Can Yılmaz. 1991 Samsun doğumluyum. Samsun'da yaşıyorum. Tüm eğitim
 öğretim hayatım Samsun'da geçti ve geçmeye devam ediyor.
@@ -18,10 +16,9 @@ Ben Emre Can Yılmaz. 1991 Samsun doğumluyum. Samsun'da yaşıyorum. Tüm eğit
 2013 yılında Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği'nden mezun olup
 aynı yıl içerisinde Bilgisayar Mühendisliği Anabilim Dalı'nda yüksek lisansa
 başladım. Konteyner tabanlı sanallaştırma teknolojileri üzerine araştırmalar
-yapıyorum. Docker bu araştırmaların başını çekiyor.
+yapıyorum.
 
-2009 yılından beri Linux kullanıcısıyım ve bu Linux yaşam tarzım oldu. Sistem
-yönetimini sevdiğim kadar programlayı da seviyorum. Her iki işi de yapıyorum.
+2009 yılından beri Linux kullanıcısıyım. Sistem yönetimini sevdiğim kadar programlayı da seviyorum. Her iki işi de yapıyorum.
 
 Oyun oynamayı da ayrı seviyorum. Dota 2 favori oyunumdur. Birlikte oynamak
 istersen iletişime geçebilirsin.
