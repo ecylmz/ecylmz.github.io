@@ -49,18 +49,28 @@ h1 {
 }
 h2 {
 	@include font-size(32);
+	padding-left: 1rem;
+	border-left: 5px solid #AA1111;
 }
 h3 {
 	@include font-size(28);
+	padding-left: 1rem;
+	border-left: 5px solid #AA1111;
 }
 h4 {
 	@include font-size(24);
+	padding-left: 1rem;
+	border-left: 5px solid #AA1111;
 }
 h5 {
 	@include font-size(20);
+	padding-left: 1rem;
+	border-left: 5px solid #AA1111;
 }
 h6 {
 	@include font-size(18);
+	padding-left: 1rem;
+	border-left: 5px solid #AA1111;
 }
 
 u,
