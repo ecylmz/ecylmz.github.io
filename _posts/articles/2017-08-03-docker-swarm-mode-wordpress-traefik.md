@@ -4,7 +4,7 @@ title: "Docker Swarm Mode - Wordpress Traefik"
 modified:
 categories: articles
 excerpt:
-tags: [docker swarm wordpress traefik ssl]
+tags: [docker, swarm, wordpress, traefik, ssl]
 comments: true
 share: true
 ---
