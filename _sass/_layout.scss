@@ -239,7 +239,7 @@ span + .entry-title {
 }
 .entry-wrapper {
 	@include outer-container;
-	margin-top: 0;
+	margin-top: -2em;
 	margin-bottom: 3em;
 	padding-right: $gutter;
 	padding-left: $gutter;
