@@ -447,6 +447,7 @@ span + .entry-title {
 	tr, td, th {
 		vertical-align: middle;
 	}
+	tr:nth-child(even){background-color: #f2f2f2}
 }
 
 // Footer
