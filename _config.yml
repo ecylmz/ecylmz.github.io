@@ -5,8 +5,8 @@ locale: tr_TR
 description: Bilgisayar Mühendisi • Linux Sistem Yöneticisi • DevOps
 logo: site-logo.png
 search: true
-url: http://ecylmz.com
-# url: http://localhost:4000
+# url: http://ecylmz.com
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -38,11 +38,13 @@ owner:
   twitter: ecylmz
   facebook:
   github: ecylmz
+  gitlab: ecylmz
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: ecylmz
   instagram: ecylmz
   flickr:
   tumblr:
+  spotify: ecylmz
   google:
     plus:
     analytics: UA-17317907-1
