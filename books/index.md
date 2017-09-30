@@ -14,7 +14,7 @@ kitapların listesini blogumda yayınlamaya çalışacağım.
 | Kitap Adı                    | Yazar                         | Bitiş Tarihi   |
 | -----------                  | -------                       | -------------- |
 | Karamazov Kardeşler          | Fyodor Mihailoviç Dostoyevski | ...            |
-| Bir Çöküşün Öyküsü           | Stefan Zweig                  | ...            |
+| Bir Çöküşün Öyküsü           | Stefan Zweig                  | 27.09.2017     |
 | Satranç                      | Stefan Zweig                  | 20.09.2017     |
 | Yedinci Gün                  | İhsan Oktay Anar              | 17.09.2017     |
 | Serenad                      | Zülfü Livaneli                | 06.08.2017     |
