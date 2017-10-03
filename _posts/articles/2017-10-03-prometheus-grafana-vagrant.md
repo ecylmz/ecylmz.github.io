@@ -9,7 +9,23 @@ comments: true
 share: true
 ---
 
-Prometheus ve Grafana'yı test edebilmek için bir Vagrantfile hazırladım.
+### Motivasyon
+
+[Prometheus](https://prometheus.io/) açık kaynak kodlu Go programlama diliyle yazılmış bir metrik toplama
+aracıdır.  
+[Grafana](http://grafana.com/) ise farklı veri kaynaklarından toplanan metrikleri grafiklere dönüştüren
+açık kaynak kodlu Go programlama diliyle yazılmış bir araçtır.
+
+Bu ikili bir araya gelince ortaya çıkan potansiyel beni aşırı
+heyecanlandırmıştı. Hep filmlerde ya da büyük firmalarda gördüğümüz o afilli
+grafiklere erişim artık bizim için de çok kolaydı. Geliştirmekte olduğunuz yazılımı
+,sunucuların durumunu detaylıca izleyebilirsiniz. Kaç kişi giriş yaptı, çıktı, kayıt oldu, hata
+sayıları, yani aklınıza gelen ne metrik varsa...
+
+### Çalışma
+
+Bu nedenlerle bu ikilinin çalışma ortamını yerelde hazırlamak istedim. Ortamın
+başkaları tarafından da kolayca tekrar üretilebilmesi için bir Vagrantfile hazırladım.
 
 Depo: [https://github.com/ecylmz/prometheus-playground](https://github.com/ecylmz/prometheus-playground)
 
