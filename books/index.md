@@ -13,7 +13,7 @@ kitapların listesini blogumda yayınlamaya çalışacağım.
 
 | Kitap Adı                    | Yazar                         | Bitiş Tarihi   |
 | -----------                  | -------                       | -------------- |
-| Karamazov Kardeşler          | Fyodor Mihailoviç Dostoyevski | ...            |
+| Karamazov Kardeşler          | Fyodor Mihailoviç Dostoyevski | 13.10.2017     |
 | Bir Çöküşün Öyküsü           | Stefan Zweig                  | 27.09.2017     |
 | Satranç                      | Stefan Zweig                  | 20.09.2017     |
 | Yedinci Gün                  | İhsan Oktay Anar              | 17.09.2017     |
