@@ -222,10 +222,11 @@ span + .entry-title {
 .entry-title {
 	font-family: $alt-font;
 	// font-style: italic;
-	@include font-size(52,yes,52);
+	@include font-size(40,yes,40);
 	font-weight: 400;
 	line-height: 1;
-	letter-spacing: -3px;
+	letter-spacing: -1px;
+	text-align: center;
 	a {
 		color: $black;
 		text-decoration: underline;
@@ -239,13 +240,13 @@ span + .entry-title {
 }
 .entry-wrapper {
 	@include outer-container;
-	margin-top: -3em;
+	margin-top: -1em;
 	margin-bottom: 2em;
 	padding-right: $gutter;
 	padding-left: $gutter;
 }
 .entry-meta {
-	// text-align: center;
+	text-align: center;
 	@include span-columns(12);
 	@include font-size(14);
 	a { 
@@ -310,7 +311,7 @@ span + .entry-title {
 #home,
 #page {
 	.entry-wrapper {
-		max-width: em(760);
+		max-width: em(720);
 	}
 	.entry-title {
 		text-align: center;
@@ -455,7 +456,7 @@ span + .entry-title {
 
 .footer-wrapper {
 	@include clearfix;
-	margin: 3em auto;
+	margin: 1em auto;
 	text-align: center;
 	font-family: $alt-font;
 	@include font-size(14);

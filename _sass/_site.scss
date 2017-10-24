@@ -32,7 +32,7 @@ body {
 }
 
 p {
-	@include font-size(18,yes,28);
+	@include font-size(16,yes,24);
 }
 
 li {
@@ -45,32 +45,32 @@ h1, h2, h3, h4, h5, h6 {
 	text-rendering: optimizeLegibility; // Fix the character spacing for headings
 }
 h1 {
-	@include font-size(36);
+	@include font-size(32);
 }
 h2 {
-	@include font-size(32);
-	padding-left: 1rem;
-	border-left: 5px solid #AA1111;
+	@include font-size(28);
+	padding-left: 0.5rem;
+	border-left: 4px solid #AA1111;
 }
 h3 {
-	@include font-size(28);
-	padding-left: 1rem;
-	border-left: 5px solid #AA1111;
+	@include font-size(24,no);
+	padding-left: 0.5rem;
+	border-left: 4px solid #AA1111;
 }
 h4 {
-	@include font-size(24);
-	padding-left: 1rem;
-	border-left: 5px solid #AA1111;
+	@include font-size(20);
+	padding-left: 0.5rem;
+	border-left: 4px solid #AA1111;
 }
 h5 {
-	@include font-size(20);
-	padding-left: 1rem;
-	border-left: 5px solid #AA1111;
+	@include font-size(16);
+	padding-left: 0.5rem;
+	border-left: 4px solid #AA1111;
 }
 h6 {
-	@include font-size(18);
-	padding-left: 1rem;
-	border-left: 5px solid #AA1111;
+	@include font-size(14);
+	padding-left: 0.5rem;
+	border-left: 4px solid #AA1111;
 }
 
 u,
@@ -203,7 +203,7 @@ li {
 	}
 }
 pre {
-	@include font-size(16);
+	@include font-size(13);
 	overflow-x: auto;
 }
 
