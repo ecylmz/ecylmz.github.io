@@ -13,6 +13,7 @@ kitapların listesini blogumda yayınlamaya çalışacağım.
 
 | Kitap Adı                    | Yazar                         | Bitiş Tarihi   |
 | -----------                  | -------                       | -------------- |
+| Üç Anadolu Efsanesi          | Yaşar Kemal                   | 26.10.2017     |
 | Karamazov Kardeşler          | Fyodor Mihailoviç Dostoyevski | 13.10.2017     |
 | Bir Çöküşün Öyküsü           | Stefan Zweig                  | 27.09.2017     |
 | Satranç                      | Stefan Zweig                  | 20.09.2017     |
