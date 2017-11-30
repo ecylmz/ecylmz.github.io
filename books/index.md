@@ -13,6 +13,8 @@ kitapların listesini blogumda yayınlamaya çalışacağım.
 
 | Kitap Adı                    | Yazar                         | Bitiş Tarihi   |
 | -----------                  | -------                       | -------------- |
+| 1984                         | George Orwell                 | 30.11.2017     |
+| Amok Koşucusu                | Stefan Zweig                  | 03.11.2017     |
 | Üç Anadolu Efsanesi          | Yaşar Kemal                   | 26.10.2017     |
 | Karamazov Kardeşler          | Fyodor Mihailoviç Dostoyevski | 13.10.2017     |
 | Bir Çöküşün Öyküsü           | Stefan Zweig                  | 27.09.2017     |
