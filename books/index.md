@@ -13,6 +13,12 @@ kitapların listesini blogumda yayınlamaya çalışacağım.
 
 | Kitap Adı                    | Yazar                         | Bitiş Tarihi   |
 | -----------                  | -------                       | -------------- |
+| Yer Demir Gök Bakır          | Yaşar Kemal                   | 02.04.2018     |
+| Ortadirek                    | Yaşar Kemal                   | 14.03.2018     |
+| Bir Nefeste Büyük Bilim İnsanları | Nicola Chalton           | 02.03.2018     |
+| Bir Nefeste Dünya Mitolojisi | Mark Daniels                  | 18.02.2018     |
+| Ferrari'yi Çalan Fil         | Şafak Altun                   | 10.02.2018     |
+| Ağrıdağı Efsanesi            | Yaşar Kemal                   | 26.01.2018     |
 | 1984                         | George Orwell                 | 30.11.2017     |
 | Amok Koşucusu                | Stefan Zweig                  | 03.11.2017     |
 | Üç Anadolu Efsanesi          | Yaşar Kemal                   | 26.10.2017     |
