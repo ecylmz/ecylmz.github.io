@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-eth0'a kablo bağl mı?
+eth0'a kablo bağlı mı?
 
 ```
 # cat /sys/class/net/eth0/carrier 
